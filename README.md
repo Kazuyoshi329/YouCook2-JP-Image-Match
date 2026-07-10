@@ -1,7 +1,7 @@
 # YouCook2-JP-Image-Match
 
 We extend the original YouCook2-JP dataset and release a tool to create a multimodal dataset that includes image inputs. 
-!"私たちは元のYouCook2-JPを拡張し、画像も入力とするためのマルチモーダルなデータセットの作成が可能なプログラムを公開します。"
+" 私たちは元のYouCook2-JPを拡張し、画像も入力とするためのマルチモーダルなデータセットの作成が可能なプログラムを公開します。 "
 
 ## Copyright and Disclaimer (著作権と免責事項)
 We do not own the copyrights of the raw videos, English captions, and annotations in YouCook2. For the use of data in YouCook2, please refer to their official website for details on the dataset contents, usage, and copyright information.
