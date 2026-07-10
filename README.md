@@ -75,8 +75,8 @@ The input for this step is data/clip_input_annotations.json (formatted from the 
 欠損動画について:
 -->
 While most videos can be downloaded from the official YouCook2 website, some videos are missing. You will need to download those missing videos directly from YouTube yourself.
-  <!--
-  多くの動画はYouCook2のサイトからダウンロードできますが、一部含まれていない動画があるため、不足分は自身でYouTubeからダウンロードする必要があります。
+<!--
+  多くの動画はYouCook2のサイトからダウンロードできますが、一部含まれていない動画があるため、不足分は自身でYouTubeからダウンロードする必要があります。→動画はyoutube上にあります。各自で入手してください。
   -->
 - Video Formats 
 <!--
