@@ -102,7 +102,10 @@ Please modify the directory paths in the scripts to match your local environment
 -->
 @misc{YouCook2_JP_Image_Match,
   title        = {YouCook2-JP-Image-Match},
+  
   author       = {Kazuyoshi Takata, Takashi Ninomiya, Isao Goto},
+  
   howpublished = {\url{https://github.com/Kazuyoshi329/YouCook2-JP-Image-Match}},
+  
   year         = {2026}
 }
