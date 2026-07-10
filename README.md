@@ -101,6 +101,7 @@ Please modify the directory paths in the scripts to match your local environment
 参考文献
 -->
 @misc{YouCook2_JP_Image_Match,
+
   title        = {YouCook2-JP-Image-Match},
   
   author       = {Kazuyoshi Takata, Takashi Ninomiya, Isao Goto},
