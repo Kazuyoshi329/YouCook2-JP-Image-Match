@@ -22,7 +22,7 @@ We do not own the copyrights of the raw videos, English captions, and annotation
 ## Pipeline Overview (プログラムの説明)
 
 The dataset generation pipeline consists of the following two steps:
-(データセット生成パイプラインは、以下の2つのステップで構成されています。)
+(データセット生成の流れは、以下の2つのステップで構成されています。)
 
 ### Step 1: Frame Extraction (フレームの抽出)
 Using src/extract_frames.py, the script extracts 10 frames evenly from each segment duration based on data/youcook2_segments.json.
