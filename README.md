@@ -113,7 +113,7 @@ This project includes data derived from the YouCook2-JP and YouCook2 datasets.
 
 Modified by Kazuyoshi Takata, Isao Goto, and Takashi Ninomiya, Ehime University (c) 2026.
 
-Released under the [MIT License](LICENSE).
+Released under the [MIT License](LICENSE.txt).
 
 
 
