@@ -108,7 +108,7 @@ This project includes data derived from the YouCook2-JP and YouCook2 datasets.
 * **YouCook2-JP**
   * **Source:** https://github.com/nlab-mpg/YouCook2-JP/
   * **License:** MIT License
-  * **License file:** [licenses/LICENSE_YouCook2-JP.txt](licenses/LICENSE_YouCook2-JP.txt)
+  * **License file:** [licenses/LICENSE_YouCook2-JP.txt](licenses/LICENSE_YOUCOOk2-JP.txt)
   * **Original license URL:** https://github.com/nlab-mpg/YouCook2-JP
 
 Modified by Kazuyoshi Takata, Isao Goto, and Takashi Ninomiya, Ehime University (c) 2026.
